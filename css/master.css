@@ -1,0 +1,72 @@
+*{
+  color: white;
+}
+.valores{
+  margin-right: 25px;
+}
+.input{
+  width: 30px;
+  mar
+}
+button,input{
+  color:black;
+}
+div.val{
+  margin: 5px  0px;
+}
+.name{
+  width: 50px;
+}
+.container{
+  padding-top: 80px;
+  margin-left: 25%;
+}
+.atributos{
+  margin-left: 2%;
+}
+.add{
+  margin-bottom: 10px;
+}
+.form{
+  margin: 10px 0px;
+}
+.barras{
+  width: 350px;
+  margin-top: -90px;
+  margin-left: 100px;
+  height: 500px;
+  display: block;
+  transform: rotate(-90deg);
+}
+h2{
+  margin-left: 17%;
+}
+div.barra{
+  height: 60px;
+  line-height: 60px;
+  background-color: lime;s
+  text-align: center;
+  margin-top: -11.5px;
+  vertical-align: middle;
+  font-weight: bold;
+  font-size: 0.8em;
+  color: white;
+  text-shadow: 2px 2px black;
+  width: 30px;
+  transition: width 1.5s ease-out;
+}
+div.barra p{
+  transform: rotate(90deg);
+  text-align: center;
+}
+td{
+  width: 58.015px;
+  padding-right: 0px;
+  text-align: center;
+  color: white;
+  background: #29088A;
+}
+table{
+  margin-top: -70px;
+  margin-left: 23px;
+}
